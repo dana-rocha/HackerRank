@@ -3,3 +3,4 @@
 Algorithms
 | Problem Set  | Solution  | Difficulty | 
 | --------- | ----------     | --------- |  
+| |   | | 
