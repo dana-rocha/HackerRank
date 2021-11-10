@@ -10,4 +10,5 @@
 | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)| [Python](30-Days-of-Code/day4-class-instance.py)  | Easy | 
 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem)| [Python](30-Days-of-Code/day5-loops.py)  | Easy | 
 | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)| [Python](30-Days-of-Code/day6-review.py)  | Easy | 
-| [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)| [Python](30-Days-of-Code/day6-arrays.py)  | Easy | 
+| [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)| [Python](30-Days-of-Code/day7-arrays.py)  | Easy | 
+| [Day 8: Dictionaries and maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)| [Python](30-Days-of-Code/day8-dictionaries.py)  | Easy | 
