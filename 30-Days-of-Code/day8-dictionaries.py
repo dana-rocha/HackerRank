@@ -9,7 +9,18 @@ phonebook = {}
 for i in range(0, dictionary_size):
     in_string = input().split()
     
-    # print(in_string[0])
     phonebook[in_string[0]] = in_string[1]
 
-print(phonebook)
+
+while True: 
+    try:
+        name = input()
+        
+        if (name in phonebook):
+            print("{}={}".format(name, phonebook[name]))
+        else:
+            print("Not found")
+        
+    except EOFError:
+        break
+    
