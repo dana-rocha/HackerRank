@@ -13,3 +13,4 @@
 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)| [Python](30-Days-of-Code/day7-arrays.py)  | Easy | 
 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)| [Python](30-Days-of-Code/day8-dictionaries.py)  | Easy | 
 | [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion/problem)| [Python](30-Days-of-Code/day9-recursion.py)  | Easy | 
+| [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)| [Python](30-Days-of-Code/day10-binary.py)  | Easy | 
