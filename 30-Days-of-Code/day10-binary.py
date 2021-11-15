@@ -16,16 +16,20 @@ if __name__ == '__main__':
     # Convert to binary
         # Divide the base-10 number by 2 and keep the remainder
         # Repeat until you reach 0
+    # Save binary representation 
         
     while (n > 0):
         n = int(n / 2) 
         remainder = n % 2
         converted.append(remainder)
         
-        print("remainders: {}".format(remainder))
-    
-    # Save binary representation 
-    
     # Count how many consecutive 1's there are
+    consecutive = 1
+    
+    for i in range(len(converted)):
+        if converted[i] == 1:
+            if (converted[i+1] == 1):
+                consecutive += 1
     
     # Print out how many consecutive 1's there are
+    print(consecutive)
