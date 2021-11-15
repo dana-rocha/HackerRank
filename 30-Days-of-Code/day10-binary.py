@@ -21,14 +21,15 @@ if __name__ == '__main__':
         
         if n % 2 == 1:
             consecutive += 1
+            max_num += 1
             
-            # if consecutive > max_num:
-            #     max_num = consecutive
+            if max_num > consecutive:
+                max_num = consecutive
             
         else:
             consecutive = 0
             
         n = n // 2
     
-    print(consecutive)
+    print(max_num)
         
