@@ -1,3 +1,5 @@
+# Re-starting 30 Days of Code Challenge: 5/26/22
+
 i = 4
 d = 4.0
 s = 'HackerRank '
