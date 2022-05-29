@@ -1,3 +1,6 @@
+# Re-starting 30 Days of Code Challenge: 5/28/22
+
+
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
 # Task
