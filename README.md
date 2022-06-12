@@ -16,3 +16,4 @@
 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)| [Python](30-Days-of-Code/day10-binary.py)  | Easy | 
 | Day 11: 2D Arrays| Python  | Easy | 
 | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)| [Python](30-Days-of-Code/day12-inheritance.py)  | Easy | 
+| [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)| [Python](30-Days-of-Code/day13-abstract-classes.py)  | Easy | 
