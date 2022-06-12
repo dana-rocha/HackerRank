@@ -15,3 +15,4 @@
 | [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion/problem)| [Python](30-Days-of-Code/day9-recursion.py)  | Easy | 
 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)| [Python](30-Days-of-Code/day10-binary.py)  | Easy | 
 | Day 11: 2D Arrays| Python  | Easy | 
+| [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)| [Python](30-Days-of-Code/day12-inheritance.py)  | Easy | 
